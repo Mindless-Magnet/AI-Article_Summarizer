@@ -14,7 +14,7 @@ After cloning the reposistory
 
 ### Create an env file 
 
-Add your rapid api key. Get you freemium key from [Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer/)
+Add your rapid api key. Get your freemium key from [Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer/)
 
 ```console
 VITE_RAPID_API_ARTICLE_KEY='your key'
