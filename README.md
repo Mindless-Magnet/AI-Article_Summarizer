@@ -1,4 +1,4 @@
-# Summarizer.AI
+# Summize
 
 AI Article summarizer app made with rapid API's [Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer/) API.
 
