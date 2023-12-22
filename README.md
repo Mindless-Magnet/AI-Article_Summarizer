@@ -1,8 +1,28 @@
-# React + Vite
+# Sumz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI Article summarizer app made with rapid API's [Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer/) API.
 
-Currently, two official plugins are available:
+## Made with
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* React + Vite
+* Tailwind CSS
+* React redux toolkit
+
+## How to run
+
+### Create an env file 
+
+Add your rapid api key. Get you freemium key from [Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer/)
+
+```console
+VITE_RAPID_API_ARTICLE_KEY='your key'
+```
+
+Then run the following:
+
+```console
+git clone
+cd src
+npm install
+npm run dev
+```
